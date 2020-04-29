@@ -67,7 +67,7 @@ what constitutes good conduct:
 * The Inane Chat slack is _not_ a place to publicly air your grievances with, or
   complain about the company.
 * No Confidential information related to the company should ever be posted on
-  this Slack.
+  this Slack.*
 * Job adverts should be posted in #jobs only. Do not reach out to individuals for
   hiring purposes.
 
@@ -82,10 +82,21 @@ moderator know. Here is a list of the current admins and their Slack IDs:**
 * Ben Darlow - `@kapowaz`
 * Maria Neumayer - `@maria`
 * Ben Pettifer - `@Ben`
+* Amal Kakaiya - `@amal`
+* Padraic Ward - `@pauric`
 
 *The role of the admins is to be an unbiased mediator, they will not moderate or
 edit anything written in the Slack unless it is required as a result of a
 discussed dispute.*
+
+*Since the Inane Chat slack has become a conversational hub for employees
+affected by the Spring 2020 series of redundancies, one exception to this point
+is that confidential information related to these redundancies can be discussed,
+exclusively on private channels with other affected employees. Please be mindful
+of the need for discretion, and careful about what information you share.
+
+If you are an employee affected by redundancies, please message a mod to be
+invited to any relevant private channels.
 
 ## Member Invites
 
