@@ -28,6 +28,7 @@ the future.*
 * Being a safe community
 * Cultivating a network of support & encouragement for each other
 * Encouraging responsible and varied forms of expression
+* Shitposts
 
 ### We condemn:
 
@@ -97,11 +98,11 @@ The Inane Chat Slack is approved invitation-only. If you’d like to invite a
 colleague, use the in-app invitation tools, and an admin will approve the
 invitation for you.
 
-We see the Inane Chat Slack as a kind of ‘virtual pub’ environment, where you
-can chat with your mates in an informal way that you might at the pub, back when
-there still were pubs. If there’s somebody who’s not currently on the slack who
-you’d bring to the pub with you as a +1, then you should feel free to request an
-invitation, _but_ try to think about who you’d bring along in that vein.
+Inane Chat Slack is a space to chat with friends and heartily shitpost. When
+inviting people to the space, consider it similar to attending after-work drinks
+at the pub. 'Can I bring my pal along?' Consider whether people will feel
+uncomfortable discussing or letting off steam around them. With that godspeed
+and good luck “netizens”!
 
 If you invite a current or former manager then admins will announce it in the
 main #inane-chat channel, inviting anyone with any objections to DM an admin. If
