@@ -59,22 +59,23 @@ good faith, you may be asked to leave permanently.
 
 ### Good conduct
 
-The goal of the Inane Chat slack is to provide a shared space for Deliveroo
+The goal of the Inane Chat slack is to provide a shared space for inane-chat
 alumni — past and present — to talk, share their experiences and generally keep
 in touch. However, with this come some limitations and general guidelines as to
 what constitutes good conduct:
 
-* The Inane Chat slack is _not_ a place to publicly air your grievances with, or
-  complain about the company.
-* No Confidential information related to the company should ever be posted on
-  this Slack.*
+* If you wish to air your grievances with, or complain about your current or
+  former employer, that’s fine, but be mindful that your messages may be seen by
+  people who join the workspace in the future.
+* No Confidential or proprietary information related to your current/former
+  employer should ever be posted on this Slack.*
 * Job adverts should be posted in #jobs only. Do not reach out to individuals for
   hiring purposes.
 
 In general, treat the Slack as an extension of the official company Slack for
 employees; consider anything you write publicly as having the potential to be
-seen by any current member of Deliveroo staff, from anyone in HR all the way up
-to the executive level.
+seen by any current member of staff, from anyone in HR all the way up to the
+executive level.
 
 **If you experience abuse, harassment, discrimination, or feel unsafe, let a
 moderator know. Here is a list of the current admins and their Slack IDs:**
@@ -83,26 +84,29 @@ moderator know. Here is a list of the current admins and their Slack IDs:**
 * Maria Neumayer - `@maria`
 * Ben Pettifer - `@Ben`
 * Amal Kakaiya - `@amal`
-* Padraic Ward - `@pauric`
+* Padraic - `@SpookyDog`
+* Anne Byrne - `@anne`
 
 *The role of the admins is to be an unbiased mediator, they will not moderate or
 edit anything written in the Slack unless it is required as a result of a
 discussed dispute.*
 
-*Since the Inane Chat slack has become a conversational hub for employees
-affected by the Spring 2020 series of redundancies, one exception to this point
-is that confidential information related to these redundancies can be discussed,
-exclusively on private channels with other affected employees. Please be mindful
-of the need for discretion, and careful about what information you share.
-
-If you are an employee affected by redundancies, please message a mod to be
-invited to any relevant private channels.
-
 ## Member Invites
 
-The Inane Chat Slack has sign-ups enabled for anybody with a Deliveroo email
-address. If you’d like to invite a former employee, contact an admin and they
-can arrange to send an invitation.
+The Inane Chat Slack is approved invitation-only. If you’d like to invite a
+colleague, use the in-app invitation tools, and an admin will approve the
+invitation for you.
+
+We see the Inane Chat Slack as a kind of ‘virtual pub’ environment, where you
+can chat with your mates in an informal way that you might at the pub, back when
+there still were pubs. If there’s somebody who’s not currently on the slack who
+you’d bring to the pub with you as a +1, then you should feel free to request an
+invitation, _but_ try to think about who you’d bring along in that vein.
+
+If you invite a current or former manager then admins will announce it in the
+main #inane-chat channel, inviting anyone with any objections to DM an admin. If
+there _are_ any objections then unfortunately that person won’t be invited to
+join. In the vast majority of cases though, there shouldn’t be a problem.
 
 Because this Slack group is intended to be a positive, friendly community,
 admins reserve the right to deny admission or revoke membership based on CoC
