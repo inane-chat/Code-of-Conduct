@@ -69,7 +69,7 @@ what constitutes good conduct:
   former employer, that’s fine, but be mindful that your messages may be seen by
   people who join the workspace in the future.
 * No Confidential or proprietary information related to your current/former
-  employer should ever be posted on this Slack.*
+  employer should ever be posted on this Slack.
 * Job adverts should be posted in #jobs only. Do not reach out to individuals for
   hiring purposes.
 
