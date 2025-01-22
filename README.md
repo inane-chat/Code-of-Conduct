@@ -22,6 +22,8 @@ the future.*
   or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist,
   etc. - this includes (but is not limited to) various slurs.
 * We avoid using offensive topics as a form of humour.
+* We do not post or link to materials that could offend on the basis of these
+  rules
 
 ### We actively work towards:
 
@@ -36,6 +38,21 @@ the future.*
 * Threats of harm, harassment
 * Anything that compromises people’s safety
 * Personal attacks
+
+### Banned links
+
+Since the owner of twitter.com / x.com has demonstrated he holds values
+contradictory to this community, we ask that members not post links to
+twitter.com / x.com. These links are set to not show preview by default, but
+it’s acceptable to post the same content posted on another social network.
+Ideally, if the content of the post is equally-well reflected by posting a link
+to the target website (for example, news articles) you should post that link
+instead.
+
+Posting screenshots that originated on twitter.com / x.com is fine provided the
+content doesn’t violate any of our other content rules, but we ask that you try
+and find if the same content exists on e.g. other social platforms first (it’s
+better that we share accessible content rather than inaccessible images).
 
 **These things are NOT OK.**
 
